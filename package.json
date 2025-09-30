@@ -1,1 +1,15 @@
-Invalid parameters
+{
+  "name": "rce-server-manager-backend",
+  "version": "1.0.0",
+  "description": "Backend server manager for RCE.js deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["rce", "server", "manager"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
